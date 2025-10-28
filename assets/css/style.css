@@ -8142,7 +8142,7 @@ li.trackback {
   margin-bottom: 28px;
 }
 .hero-style3 .hero-title {
-  font-size: 100px;
+  font-size: 60px;
   font-weight: 600;
   line-height: 1.1em;
   position: relative;
@@ -8209,7 +8209,7 @@ li.trackback {
     font-size: 30px;
   }
   .hero-style3 .hero-title {
-    font-size: 80px;
+    font-size: 20px;
   }
   .hero-style3 .hero-thumb3-1 .event-vanue-details span {
     font-size: 24px;
@@ -8226,7 +8226,7 @@ li.trackback {
     font-size: 24px;
   }
   .hero-style3 .hero-title {
-    font-size: 60px;
+    font-size: 20px;
   }
   .hero-style3 .hero-title.style2 {
     padding-right: 50px;
@@ -8255,7 +8255,7 @@ li.trackback {
     margin-bottom: 20px;
   }
   .hero-style3 .hero-title {
-    font-size: 50px;
+    font-size: 20px;
   }
   .hero-style3 .hero-thumb3-1 {
     margin-top: 0;
@@ -8280,7 +8280,7 @@ li.trackback {
 }
 @media (max-width: 375px) {
   .hero-style3 .hero-title {
-    font-size: 45px;
+    font-size: 25px;
   }
   .hero-style3 .hero-thumb3-1 img {
     min-height: 400px;
